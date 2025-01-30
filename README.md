@@ -15,8 +15,7 @@
 
 <br/>  
 Contact Me 
-
-Email - 
+<br/>
 prempatel14020@gmail.com 
 <br/>
 prem@ravenware.ca
