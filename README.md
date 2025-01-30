@@ -1,4 +1,6 @@
 # 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4998&pause=1000&color=F7AAC4&width=435&lines=Hello%2C+I'm+Prem+Patel;Web+Developer)](https://git.io/typing-svg)
+
 🔭 I’m currently working on personal website and projects<br>👯 I’m looking to collaborate on various web dev projects and design projects<br>🤝 I’m looking for help with learning more in web deisgning.<br>🌱 I’m currently learning web deployment and domain management<br>💬 Ask me about anything and everything<br>⚡ Fun fact Ive had camping on the top my bucket list since first grade and still havent done it
 
 
