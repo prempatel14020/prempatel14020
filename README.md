@@ -14,9 +14,11 @@
 
 
 <br/>  
-##Contact Me 
+Contact Me 
 
-###Email - ####prempatel14020@gmail.com
+Email - 
+prempatel14020@gmail.com
+prem@ravenware.ca
 
 
 
