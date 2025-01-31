@@ -23,7 +23,7 @@ If you have any questions or would like to get in touch, feel free to reach out 
 
 ## My Skill Set  
 <br/>
-<table><tr><td valign="top" width="35%">
+<table><tr><td valign="top" width="50%">
 
 ### Frontend  
 <div align="center">  
