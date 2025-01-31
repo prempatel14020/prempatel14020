@@ -10,7 +10,7 @@ If you have any questions or would like to get in touch, feel free to reach out 
 ### Email Addresses
 - [prempatel14020@gmail.com](mailto:prempatel14020@gmail.com)
 - [prem@ravenware.ca](mailto:prem@ravenware.ca)
-## My Skill Set  
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -21,7 +21,7 @@ If you have any questions or would like to get in touch, feel free to reach out 
 
 
 
-
+## My Skill Set  
 <br/>
 <table><tr><td valign="top" width="35%">
 
