@@ -3,15 +3,6 @@
 
 🔭 I’m currently working on personal website and projects<br>👯 I’m looking to collaborate on various web dev projects and design projects<br>🤝 I’m looking for help with learning more in web deisgning.<br>🌱 I’m currently learning web deployment and domain management<br>💬 Ask me about anything and everything<br>⚡ Fun fact Ive had camping on the top my bucket list since first grade and still havent done it
 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=prempatel14020&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
 # Contact Me
 
 If you have any questions or would like to get in touch, feel free to reach out via email:
@@ -20,6 +11,15 @@ If you have any questions or would like to get in touch, feel free to reach out 
 - [prempatel14020@gmail.com](mailto:prempatel14020@gmail.com)
 - [prem@ravenware.ca](mailto:prem@ravenware.ca)
 ## My Skill Set  
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=prempatel14020&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
+
 
 
 <br/>
