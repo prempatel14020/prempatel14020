@@ -13,15 +13,6 @@
 
 
 
-<br/>  
-# 💫 Contact me at: 
-<br/>
-## prempatel14020@gmail.com  
-<br/>
-## prem@ravenware.ca  
-
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="35%">
 
